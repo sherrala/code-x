@@ -1,0 +1,15 @@
+{
+  "name":"code-x",
+  "scripts":{},
+  "env":{
+    "DATABASE_URL":{
+      "required":true
+    },
+    "JAVA_OPTS":{
+      "required":true
+    }
+  },
+  "addons":[
+    "heroku-postgresql"
+  ]
+}
