@@ -5,7 +5,7 @@
 			<img src="includes/images/ColdBoxLogo2015_300.png" class="pull-left margin10" alt="logo"/>
 			<p class="text-center">
 				<a class="btn btn-primary" href="http://coldbox.ortusbooks.com" target="_blank" title="Read our ColdBox Manual" rel="tooltip">
-					<strong>Read ColdBox Manual</strong>
+					<strong>Read ColdBox Manual, or what I call 'shared-dev'</strong>
 				</a>
 			</p>
 		</div>
