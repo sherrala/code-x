@@ -1,0 +1,1 @@
+web:    java -jar jetty-runner.jar --port $PORT lucee.war
