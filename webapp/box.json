@@ -1,0 +1,8 @@
+{
+    "dependencies":{
+        "cbdebugger":"1.1.0"
+    },
+    "installPaths":{
+        "cbdebugger":"modules/cbdebugger"
+    }
+}
